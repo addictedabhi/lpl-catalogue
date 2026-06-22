@@ -1,6 +1,18 @@
 from __future__ import annotations
 import json
 
+# Prices in the docx (source of truth) are in INR. The catalogue displays USD.
+INR_PER_USD = 90
+
+
+def inr_to_usd(inr: int) -> float:
+    """Convert an INR amount to USD, rounded to 2 decimals."""
+    return round(inr / INR_PER_USD, 2)
+
+
+def format_usd(inr: int) -> str:
+    return "$" + f"{inr_to_usd(inr):.2f}"
+
 CATEGORY_ICONS = {"rakhi": "✸", "bathrobes": "✤", "brooches": "✦",
                   "hairclips": "✿", "collars": "❤"}
 
@@ -34,8 +46,8 @@ def build_payload(cats: list[dict], tokens: dict) -> dict:
         for p in cat["products"]:
             detail = (p.get("features") or ["100% Handmade"])[0]
             prods.append({
-                "slug": p["slug"], "name": p["name"], "price": p["price"],
-                "price_display": "₹" + format_inr(p["price"]),
+                "slug": p["slug"], "name": p["name"], "price": inr_to_usd(p["price"]),
+                "price_display": format_usd(p["price"]),
                 "badge": p.get("badge"), "variants": p.get("variants", []),
                 "detail": detail, "base_image": p["base_image"],
                 "gallery": p.get("images", []),

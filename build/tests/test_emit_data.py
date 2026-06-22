@@ -15,7 +15,8 @@ def _cats():
 def test_payload_shape():
     p = build_payload(_cats(), {"accent":"#E8587A","logo":"assets/brand/logo.png"})
     prod = p["categories"][0]["products"][0]
-    assert prod["price_display"] == "₹799"
+    assert prod["price_display"] == "$8.88"
+    assert prod["price"] == 8.88
     assert prod["detail"] == "100% Handmade"
     assert prod["gallery"] == ["images/brooches-llama/0.jpg","images/brooches-llama/1.jpg"]
     assert p["brand"]["accent"] == "#E8587A"
