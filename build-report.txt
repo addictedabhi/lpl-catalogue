@@ -1,0 +1,26 @@
+Little Pink Llama — build report
+Products parsed: 51
+Matched to Shopify: 30
+Images downloaded: 0, from docx: 0, missing: 0
+Unmatched (docx-only, expected for Rakhi/Bathrobes):
+  - rakhi-captainamerica
+  - rakhi-umbrellablack
+  - rakhi-umbrellamulticolor
+  - rakhi-star
+  - rakhi-elephantwithballoons
+  - rakhi-bird
+  - rakhi-ladybug
+  - rakhi-watermelon
+  - rakhi-cloud
+  - rakhi-llama
+  - rakhi-hotairballoon
+  - rakhi-candy
+  - rakhi-elephant
+  - rakhi-spiderman
+  - rakhi-derpytiger
+  - rakhi-happywheels
+  - bathrobes-unicorn
+  - bathrobes-giraffe
+  - bathrobes-aeroplane
+  - brooches-rainbowcloud
+  - hairclips-rainbowcloud

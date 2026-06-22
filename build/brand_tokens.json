@@ -1,0 +1,13 @@
+{
+  "ground": "#FFF1F2",
+  "card": "#FFFBF7",
+  "text": "#46283A",
+  "muted": "#8A6B7C",
+  "accent": "#E8587A",
+  "accent_soft": "#FBE0E7",
+  "line": "#E9C9D2",
+  "gold": "#C98A4B",
+  "serif": "Georgia,\"Times New Roman\",serif",
+  "sans": "Jost, -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,system-ui,sans-serif",
+  "logo": "assets/brand/logo.png"
+}
