@@ -2,5 +2,3 @@ exclude:
   - docs/
   - build-report.txt
   - pytest.ini
-  - catalogue-data.js
-  - catalogue.pdf
