@@ -22,8 +22,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-captainamerica",
           "name": "Captain America",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -35,8 +35,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-umbrellablack",
           "name": "Umbrella – Black",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -48,8 +48,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-umbrellamulticolor",
           "name": "Umbrella – Multicolor",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -61,8 +61,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-star",
           "name": "Star",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [
             "Red",
@@ -77,8 +77,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-elephantwithballoons",
           "name": "Elephant with Balloons",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Gray",
@@ -93,8 +93,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-bird",
           "name": "Bird",
-          "price": 499,
-          "price_display": "₹499",
+          "price": 400,
+          "price_display": "₹400",
           "badge": null,
           "variants": [
             "Blue",
@@ -109,8 +109,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-ladybug",
           "name": "Ladybug",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -122,8 +122,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-watermelon",
           "name": "Watermelon",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -135,8 +135,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-cloud",
           "name": "Cloud",
-          "price": 750,
-          "price_display": "₹750",
+          "price": 600,
+          "price_display": "₹600",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -148,8 +148,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-llama",
           "name": "Llama",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -161,8 +161,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-hotairballoon",
           "name": "Hot Air Balloon",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -174,8 +174,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-candy",
           "name": "Candy",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -187,8 +187,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-elephant",
           "name": "Elephant",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Red",
@@ -205,8 +205,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-spiderman",
           "name": "Spiderman",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -218,8 +218,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-derpytiger",
           "name": "Derpy Tiger",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -231,8 +231,8 @@ window.CATALOGUE = {
         {
           "slug": "rakhi-happywheels",
           "name": "Happy Wheels",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Blue",
@@ -255,8 +255,8 @@ window.CATALOGUE = {
         {
           "slug": "bathrobes-unicorn",
           "name": "Unicorn Bathrobe",
-          "price": 1499,
-          "price_display": "₹1,499",
+          "price": 1200,
+          "price_display": "₹1,200",
           "badge": null,
           "variants": [],
           "detail": "Premium Quality",
@@ -268,8 +268,8 @@ window.CATALOGUE = {
         {
           "slug": "bathrobes-giraffe",
           "name": "Giraffe Bathrobe",
-          "price": 1499,
-          "price_display": "₹1,499",
+          "price": 1200,
+          "price_display": "₹1,200",
           "badge": null,
           "variants": [],
           "detail": "Premium Quality",
@@ -281,8 +281,8 @@ window.CATALOGUE = {
         {
           "slug": "bathrobes-aeroplane",
           "name": "Aeroplane Bathrobe",
-          "price": 1499,
-          "price_display": "₹1,499",
+          "price": 1200,
+          "price_display": "₹1,200",
           "badge": null,
           "variants": [],
           "detail": "Premium Quality",
@@ -302,8 +302,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-llama",
           "name": "Llama",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": "Bestseller",
           "variants": [],
           "detail": "100% Handmade",
@@ -318,8 +318,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-watermelon",
           "name": "Watermelon",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -335,8 +335,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-ladybug",
           "name": "Ladybug",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -352,8 +352,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-elephantwithballoons",
           "name": "Elephant with Balloons",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Gray",
@@ -374,8 +374,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-elephant",
           "name": "Elephant",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Red",
@@ -399,8 +399,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-bird",
           "name": "Bird",
-          "price": 499,
-          "price_display": "₹499",
+          "price": 400,
+          "price_display": "₹400",
           "badge": "Most Loved",
           "variants": [
             "Yellow",
@@ -426,8 +426,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-candycane",
           "name": "Candy Cane",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -442,8 +442,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-firststep",
           "name": "First Step",
-          "price": 1099,
-          "price_display": "₹1,099",
+          "price": 880,
+          "price_display": "₹880",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -459,8 +459,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-hotairballoon",
           "name": "Hot Air Balloon",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -476,8 +476,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-derpytiger",
           "name": "Derpy Tiger",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -493,8 +493,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-candy",
           "name": "Candy",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -511,8 +511,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-happywheels",
           "name": "Happy Wheels",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Blue",
@@ -531,8 +531,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-guidingstar",
           "name": "Guiding Star",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [
             "Red",
@@ -549,8 +549,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-rainbowcloud",
           "name": "Rainbow Cloud",
-          "price": 750,
-          "price_display": "₹750",
+          "price": 600,
+          "price_display": "₹600",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -562,8 +562,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-amazingspiderman",
           "name": "Amazing Spiderman",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -578,8 +578,8 @@ window.CATALOGUE = {
         {
           "slug": "brooches-captainamerica",
           "name": "Captain America",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -602,8 +602,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-firststeps",
           "name": "First Steps",
-          "price": 1099,
-          "price_display": "₹1,099",
+          "price": 880,
+          "price_display": "₹880",
           "badge": "Premium",
           "variants": [],
           "detail": "100% Handmade",
@@ -617,8 +617,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-monsoonmuse",
           "name": "Monsoon Muse",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [
             "Black and Multicolor"
@@ -639,8 +639,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-wandkpop",
           "name": "Wand K-Pop",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -654,8 +654,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-guidingstar",
           "name": "Guiding Star",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [
             "Red",
@@ -675,8 +675,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-watermelon",
           "name": "Watermelon",
-          "price": 599,
-          "price_display": "₹599",
+          "price": 480,
+          "price_display": "₹480",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -693,8 +693,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-rainbowcloud",
           "name": "Rainbow Cloud",
-          "price": 750,
-          "price_display": "₹750",
+          "price": 600,
+          "price_display": "₹600",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -706,8 +706,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-candy",
           "name": "Candy",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -724,8 +724,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-derpytiger",
           "name": "Derpy Tiger",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -742,8 +742,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-ladybug",
           "name": "Ladybug",
-          "price": 699,
-          "price_display": "₹699",
+          "price": 560,
+          "price_display": "₹560",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -759,8 +759,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-hotairballoon",
           "name": "Hot Air Balloon",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -778,8 +778,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-bird",
           "name": "Bird",
-          "price": 499,
-          "price_display": "₹499",
+          "price": 400,
+          "price_display": "₹400",
           "badge": null,
           "variants": [
             "Yellow",
@@ -806,8 +806,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-elephant",
           "name": "Elephant",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Red",
@@ -833,8 +833,8 @@ window.CATALOGUE = {
         {
           "slug": "hairclips-elephantwithballoons",
           "name": "Elephant with Balloons",
-          "price": 799,
-          "price_display": "₹799",
+          "price": 640,
+          "price_display": "₹640",
           "badge": null,
           "variants": [
             "Gray",
@@ -864,8 +864,8 @@ window.CATALOGUE = {
         {
           "slug": "collars-rubysparkle",
           "name": "Ruby Sparkle",
-          "price": 1399,
-          "price_display": "₹1,399",
+          "price": 1120,
+          "price_display": "₹1,120",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -880,8 +880,8 @@ window.CATALOGUE = {
         {
           "slug": "collars-mysticalgarden",
           "name": "Mystical Garden",
-          "price": 1399,
-          "price_display": "₹1,399",
+          "price": 1120,
+          "price_display": "₹1,120",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
@@ -895,8 +895,8 @@ window.CATALOGUE = {
         {
           "slug": "collars-derpytiger",
           "name": "Derpy Tiger",
-          "price": 1399,
-          "price_display": "₹1,399",
+          "price": 1120,
+          "price_display": "₹1,120",
           "badge": null,
           "variants": [],
           "detail": "100% Handmade",
